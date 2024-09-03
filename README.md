@@ -8,7 +8,7 @@
     <li>WinForms </li>
     <li>WPF </li>
     <li>Unity Engine </li>
-    <li>ASP.NET - сейчас изучаю🤔</li>
+    <li>ASP.NET - сейчас изучаю</li>
   </ul>
 </div>
 <hr size="8">
